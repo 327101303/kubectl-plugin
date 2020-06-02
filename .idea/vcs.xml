@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/workspace/archon-core" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/workspace/archon-rest" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/workspace/barrack-ghost-core" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/workspace/claimcraft-battlecruiser-core" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/workspace/download-server" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/workspace/probe-rest" vcs="Git" />
+  </component>
+</project>
